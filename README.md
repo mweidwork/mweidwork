@@ -1,18 +1,14 @@
 ## Hi there 👋, it is me M.  
 
 
-<table>
-  <tr>
-    <td>
-      I'm a <b>Machine Learning Engineer</b>,<br>
-      passionate about building intelligent systems and exploring the intersection of data and code.<br><br>
-      I enjoy working on innovative projects that make machine learning algorithms more accessible and impactful.
-    </td>
-  </tr>
-</table>
+<p>
 
+I'm a <b>Machine Learning Engineer</b>,
+passionate about building intelligent systems and exploring the intersection of data and code.
+I enjoy working on innovative projects that make machine learning algorithms more accessible and impactful.
 
-<img width="390" src="https://github-readme-stats.vercel.app/api?username=mweidwork&theme=nord&show_icons=true&hide_border=false&count_private=true" alt="mweidwork's GitHub Stats" />
+</p>
+
 
 <hr style="border: 0; height: 2px; background: linear-gradient(to right, #444, #999, #444); margin: 30px 0;" />
 
