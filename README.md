@@ -12,7 +12,7 @@
 </table>
 
 
-<img width="390" src="https://github-readme-stats.vercel.app/api?username=mweidwork&theme=dark&show_icons=true&hide_border=false&count_private=true" alt="mweidwork's GitHub Stats" />
+<img width="390" src="https://github-readme-stats.vercel.app/api?username=mweidwork&theme=nord&show_icons=true&hide_border=false&count_private=true" alt="mweidwork's GitHub Stats" />
 
 <hr style="border: 0; height: 2px; background: linear-gradient(to right, #444, #999, #444); margin: 30px 0;" />
 
