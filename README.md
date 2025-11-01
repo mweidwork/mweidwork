@@ -4,11 +4,13 @@
 <table>
   <tr>
     <td>
-      I'm a <b>Machine Learning Engineer</b> passionate about building intelligent systems and exploring the intersection of data and code.  
+      I'm a <b>Machine Learning Engineer</b>,<br>
+      passionate about building intelligent systems and exploring the intersection of data and code.<br><br>
       I enjoy working on innovative projects that make machine learning algorithms more accessible and impactful.
     </td>
   </tr>
 </table>
+
 
 <img width="390" src="https://github-readme-stats.vercel.app/api?username=mweidwork&theme=dark&show_icons=true&hide_border=false&count_private=true" alt="mweidwork's GitHub Stats" />
 
