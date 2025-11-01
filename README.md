@@ -3,15 +3,14 @@
 
 <table>
   <tr>
-    <td style="vertical-align: top; width: 60%; background-color: rgba(0, 0, 0, 0.14); padding: 15px;">
+    <td>
       I'm a <b>Machine Learning Engineer</b> passionate about building intelligent systems and exploring the intersection of data and code.  
       I enjoy working on innovative projects that make machine learning algorithms more accessible and impactful.
     </td>
-    <td style="width: 40%; text-align: center; min-height: 220px;">
-      <img width="390" src="https://github-readme-stats.vercel.app/api?username=mweidwork&theme=dark&show_icons=true&hide_border=false&count_private=true" alt="mweidwork's GitHub Stats" />
-    </td>
   </tr>
 </table>
+
+<img width="390" src="https://github-readme-stats.vercel.app/api?username=mweidwork&theme=dark&show_icons=true&hide_border=false&count_private=true" alt="mweidwork's GitHub Stats" />
 
 <hr style="border: 0; height: 2px; background: linear-gradient(to right, #444, #999, #444); margin: 30px 0;" />
 
